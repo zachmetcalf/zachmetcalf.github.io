@@ -1,9 +1,10 @@
 title: "Zach Metcalf"
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-color_scheme: nil
 
-logo: "/data/icons/zmetcalf_icon0.png"
-favicon_ico: "/data/icons/zmetcalf_icon0.png"
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+color_scheme: dark
+favicon_ico: "/data/icons/zmetcalf_icon0.ico"
+
+aux_links_new_tab: true
 search_enabled: false
 
 aux_links:
@@ -11,9 +12,6 @@ aux_links:
     - "https://www.linkedin.com/in/zachmetcalf/"
   "GitHub":
     - "https://github.com/zachmetcalf"
-
-
-aux_links_new_tab: true
 
 callouts:
   note:
@@ -25,17 +23,3 @@ callouts:
   danger:
     title: DANGER
     color: red
-  test:
-    title: TEST IT!
-    color: green
-
-# Collections for website data
-collections:
-  schedules:
-# Default layouts for each collection type
-defaults:
-  - scope:
-      path: ''
-      type: schedules
-    values:
-      layout: schedule
