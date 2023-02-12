@@ -1,5 +1,5 @@
 ---
-title: "Zach Metcalf"
+title: "About"
 has_children: false
 nav_order: 101
 ---
@@ -11,4 +11,18 @@ My name is Zach Metcalf. I am a Senior Software Engineer at Riot Games and an Ad
 
 ## Resume
 
-![Resume](data/docs/zmetcalf_resume.pdf)
+![Resume](/data/docs/zmetcalf_resume.pdf)
+
+TEST
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title of the document</title>
+  </head>
+  <body>
+    <h1>PDF Example with iframe</h1>
+    <iframe src="/data/docs/zmetcalf_resume.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
