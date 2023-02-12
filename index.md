@@ -1,9 +1,9 @@
 ---
-title: Home
+title: home
 layout: home
 nav_order: 100
 ---
 
 ## Zach Metcalf
 
-Welcome! This is the personal site for Zach Metcalf
+This is the personal site for Zach Metcalf
