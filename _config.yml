@@ -8,6 +8,8 @@ aux_links_new_tab: true
 search_enabled: false
 
 aux_links:
+  "Email":
+    - "mailto:zachmetcalf@gmail.com"
   "LinkedIn":
     - "https://www.linkedin.com/in/zachmetcalf/"
   "GitHub":
@@ -15,11 +17,11 @@ aux_links:
 
 callouts:
   note:
-    title: NOTE
+    title: note
     color: blue
   warn:
-    title: WARNING
+    title: warning
     color: yellow
   danger:
-    title: DANGER
+    title: danger
     color: red

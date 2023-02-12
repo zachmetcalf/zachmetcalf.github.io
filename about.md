@@ -13,10 +13,7 @@ My name is Zach Metcalf. I am a Senior Software Engineer at Riot Games and an Ad
 
 <html>
   <body>
-    <object data="/data/docs/zmetcalf_resume.pdf?#zoom=80&scrollbar=0&navpanes=0" 
-        type="application/pdf"
-        width="100%"
-        height="800px">
+    <object data="/data/docs/zmetcalf_resume.pdf?#zoom=80&scrollbar=0&toolbar=0&navpanes=0" type="application/pdf" width="100%" height="800px">
     </object>
   </body>
 </html>
