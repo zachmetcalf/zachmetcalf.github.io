@@ -5,7 +5,7 @@ nav_order: 100
 ---
 
 {: .note}
-My name is Zach Metcalf. I am a Senior Software Engineer II at Riot Games. I graduated from USC’s schools of Viterbi and Marshall, where I completed a B.S. in Business Administration, a B.S. in Electrical Engineering, a minor in Video Game Programming, and an M.S. in Computer Science. I was also a Game Engine Programmer at Rockstar Games, a Software Engineer at Blizzard Entertainment, and an Adjunct Lecturer at USC.
+My name is Zach Metcalf. I am a Manager, Software Engineering at Riot Games. I graduated from USC’s schools of Viterbi and Marshall, where I completed a B.S. in Business Administration, a B.S. in Electrical Engineering, a minor in Video Game Programming, and an M.S. in Computer Science. I have been an Adjunct Lecturer at USC and a Software Engineer at Riot Games, Blizzard Entertainment, and Rockstar Games.
 
 <html>
   <body>
