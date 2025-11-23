@@ -1,0 +1,14 @@
+# Copyright (c) 2025 Zach Metcalf. All Rights Reserved.
+
+# directories
+bin/
+build/
+install/
+
+# files
+*.DS_Store
+Gemfile.lock
+
+# visual studio
+*.aps
+.vs/

@@ -1,0 +1,22 @@
+title: "Zach Metcalf"
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+color_scheme: nil
+aux_links_new_tab: true
+search_enabled: false
+aux_links:
+  "Email":
+    - "mailto:zachmetcalf@gmail.com"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/zachmetcalf/"
+  "GitHub":
+    - "https://github.com/zachmetcalf"
+callouts:
+  note:
+    title: note
+    color: blue
+  warn:
+    title: warning
+    color: yellow
+  danger:
+    title: danger
+    color: red
