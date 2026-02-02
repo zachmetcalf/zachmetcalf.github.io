@@ -33,5 +33,5 @@ copy /y %tempdir%\license.txt %projectdir%\license.txt >nul
 
 rmdir /s /q %tempdir%
 
-echo standards succeeded
+echo standards completed
 exit /b 0
