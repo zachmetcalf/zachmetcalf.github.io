@@ -15,14 +15,12 @@
     "files.exclude": {
         "bin/": true,
         "build/": true,
-        "install/": true,
-		"vcpkg_installed/": true
+        "install/": true
     },
 	"files.insertFinalNewline": true,
     "search.exclude": {
         "bin/": true,
         "build/": true,
-        "install/": true,
-		"vcpkg_installed/": true
+        "install/": true
     }
 }

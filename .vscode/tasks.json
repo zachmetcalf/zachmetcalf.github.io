@@ -24,18 +24,6 @@
 				"cwd": "${workspaceFolder}/scripts/setup"
 			},
 			"problemMatcher": []
-		},
-		{
-			"label": "update",
-			"type": "shell",
-			"command": "./update.sh",
-			"windows": {
-				"command": ".\\update.bat"
-			},
-			"options": {
-				"cwd": "${workspaceFolder}/scripts/setup"
-			},
-			"problemMatcher": []
 		}
 	]
 }
