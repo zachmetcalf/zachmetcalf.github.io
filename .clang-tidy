@@ -5,8 +5,11 @@ Checks: >
   -*,
   clang-analyzer-*,
   bugprone-*,
+  -bugprone-easily-swappable-parameters,
   performance-*
 
 WarningsAsErrors: ''
 HeaderFilterRegex: '.*/source/.*'
 FormatStyle: none
+ExtraArgs:
+  - -Wno-unused-command-line-argument
