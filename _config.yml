@@ -1,15 +1,21 @@
-title: "Zach Metcalf"
+title: "zach metcalf"
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
 color_scheme: nil
-aux_links_new_tab: true
 search_enabled: false
+
+nav_external_links:
+  - title: shared
+    url: https://zachmetcalf.com/shared-project/
+    hide_icon: true
+aux_links_new_tab: true
 aux_links:
-  "Email":
+  "email":
     - "mailto:zachmetcalf@gmail.com"
-  "LinkedIn":
+  "linkedin":
     - "https://www.linkedin.com/in/zachmetcalf/"
-  "GitHub":
+  "github":
     - "https://github.com/zachmetcalf"
+
 callouts:
   note:
     title: note

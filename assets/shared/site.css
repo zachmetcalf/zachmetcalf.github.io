@@ -1,0 +1,67 @@
+/* Copyright (c) 2026 Zach Metcalf. All Rights Reserved. */
+
+.main-content img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.main-content pre {
+	line-height: 1;
+	tab-size: 4;
+}
+
+.main-content th,
+.main-content td {
+	min-width: 20px;
+}
+
+.main-content p {
+	margin-top: 0;
+}
+
+.label {
+	margin-right: 0.25em;
+	margin-bottom: 0.5em;
+	margin-left: 0.25em;
+	font-size: 11px !important;
+}
+
+a[href="#spoiler"] {
+	display: inline-block;
+	margin-bottom: 10px;
+	padding: 10px;
+	border-left: 4px solid #ffeb8e;
+	background-color: #fff8dc;
+	text-decoration: none !important;
+	cursor: default;
+}
+
+a[href="#spoiler"]::after {
+	content: attr(title);
+	padding: 0 0.5em;
+	color: #fff8dc;
+}
+
+a[href="#spoiler"]:hover::after,
+a[href="#spoiler"]:active::after {
+	color: #000;
+	cursor: auto;
+	transition: color 0.5s ease-in-out;
+}
+
+.site-theme {
+	align-self: center;
+	margin: 0 auto 0 1rem;
+	white-space: nowrap;
+}
+
+#theme-toggle {
+	padding: 0;
+	border: 0;
+	background: none;
+	color: inherit;
+	font: inherit;
+	text-decoration: underline;
+	cursor: pointer;
+}
